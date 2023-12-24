@@ -512,3 +512,12 @@ Create a memorable and meaningful story with which the creader can connect.
 ## Antagonists/Protagonist
 
 *正角/反角*
+
+---
+
+## Summary:
+
+- Rhetoric is the art of persuasion.
+- Rhetorical devices are techniques that writers use to enhance their arguments and communicate more effectively.
+- The three artistic proofs, Ethos, Pathos, and Logos, are modes of persuasion used to convince audiences.
+- Popular rhetorical devices include alliteration, allusion, allegory, analogy, simile, metaphor, antecedent, apostrophe, hyperbole, understatement, imagery, invective, irony, innuendo, sarcasm, euphemism, paradox, parallelism, parody, pedantic, periodic sentence, point of view, syllogism, antithesis, hypophora, rhetorical question, procatalepsis, distinctio, enumeratio, mood, tone, symbol, asyndeton, polysyndeton, parataxis, synecdoche, metonymy, personification, sententia, and exemplum.
