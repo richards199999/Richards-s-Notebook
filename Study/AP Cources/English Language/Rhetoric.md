@@ -1,5 +1,57 @@
 # Rhetoric
 
+## Contents:
+
+- [Rhetoric](#rhetoric)
+    - [Contents:](#contents)
+    - [Introduction](#introduction)
+    - [Rhetorical devices](#rhetorical-devices)
+    - [The three artistic proofs](#the-three-artistic-proofs)
+    - [Popular rhetorical devices](#popular-rhetorical-devices)
+    - [Functions for Rhetoric](#functions-for-rhetoric)
+    - [Rhetorical Devices in AP Lang:](#rhetorical-devices-in-ap-lang)
+        - [Alliteration(头韵)](#alliteration头韵)
+        - [Allusion(用典)](#allusion用典)
+        - [Allegory(寓言)](#allegory寓言)
+        - [Analogy(类比)](#analogy类比)
+        - [Simile (like/as/so) (明喻)](#simile-likeasso-明喻)
+        - [Metaphor(隐喻)](#metaphor隐喻)
+        - [Antecedent(先行词)](#antecedent先行词)
+        - [Apostrophe(呼语)](#apostrophe呼语)
+        - [Hyperbole(夸张)](#hyperbole夸张)
+        - [Understatement(轻描淡写)](#understatement轻描淡写)
+        - [Imagery(形象化描写)](#imagery形象化描写)
+        - [Invective(脏话)](#invective脏话)
+        - [Irony/Ironic(讽刺)](#ironyironic讽刺)
+        - [Innuendo(含沙射影)](#innuendo含沙射影)
+        - [Sarcasm(尖酸刻薄)](#sarcasm尖酸刻薄)
+        - [Euphemism](#euphemism)
+        - [Paradox(悖论)/Oxymoron(矛盾修辞法)](#paradox悖论oxymoron矛盾修辞法)
+        - [Parallelism(平行结构)](#parallelism平行结构)
+            - [Chiasmus](#chiasmus)
+        - [Parody(模仿)](#parody模仿)
+        - [Pedantic(学究式)](#pedantic学究式)
+        - [Periodic sentence(周期句)](#periodic-sentence周期句)
+        - [Point of view(视角)](#point-of-view视角)
+            - [Rhetorical mode](#rhetorical-mode)
+        - [Syllogism/Enthymeme(三段论)](#syllogismenthymeme三段论)
+            - [Confounding Variable](#confounding-variable)
+        - [Antithesis(反对论点)](#antithesis反对论点)
+        - [Hypophora(设问)](#hypophora设问)
+        - [Rhetorical Question](#rhetorical-question)
+        - [Procatalepsis(预先驳斥)](#procatalepsis预先驳斥)
+        - [Distinctio(定义)](#distinctio定义)
+        - [Enumeratio(列举)](#enumeratio列举)
+        - [Mood](#mood)
+        - [Tone](#tone)
+        - [Symbol/Symbolism(象征)](#symbolsymbolism象征)
+        - [Asyndeton/Polysyndeton/Parataxis](#asyndetonpolysyndetonparataxis)
+        - [Synecdoche/Metonymy](#synecdochemetonymy)
+        - [Personification](#personification)
+        - [Sentenia](#sentenia)
+        - [Exemplum](#exemplum)
+        - [Antagonists/Protagonist](#antagonistsprotagonist)
+
 ### The three artistic proofs, Ethos, Pathos, and Logos, are modes of persuasion used to convince audiences.
 
 1. Ethos:
@@ -512,12 +564,3 @@ Create a memorable and meaningful story with which the creader can connect.
 ## Antagonists/Protagonist
 
 *正角/反角*
-
----
-
-## Summary:
-
-- Rhetoric is the art of persuasion.
-- Rhetorical devices are techniques that writers use to enhance their arguments and communicate more effectively.
-- The three artistic proofs, Ethos, Pathos, and Logos, are modes of persuasion used to convince audiences.
-- Popular rhetorical devices include alliteration, allusion, allegory, analogy, simile, metaphor, antecedent, apostrophe, hyperbole, understatement, imagery, invective, irony, innuendo, sarcasm, euphemism, paradox, parallelism, parody, pedantic, periodic sentence, point of view, syllogism, antithesis, hypophora, rhetorical question, procatalepsis, distinctio, enumeratio, mood, tone, symbol, asyndeton, polysyndeton, parataxis, synecdoche, metonymy, personification, sententia, and exemplum.
