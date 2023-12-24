@@ -1,2 +1,3 @@
 # Richards-s-Notebook
-Notebook for school and life
+
+This is my notebook for school and life.
