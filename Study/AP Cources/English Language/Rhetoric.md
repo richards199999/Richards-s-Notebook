@@ -512,28 +512,3 @@ Create a memorable and meaningful story with which the creader can connect.
 ## Antagonists/Protagonist
 
 *正角/反角*
-
-## Repetition
-
-*Repeat the same word or phrase to emphasize a specific point.*
-
-## Anaphora
-
-*Repetition of a word or phrase that is located at the beginning of the sentences. 首词重复*
-
-## Anecdote
-
-*a short and interesting story that attracts the readers 奇闻轶事*
-
-## Anaphora 段首重复
-
-## Ellipsis
-
-- emphasis
-- compactness
-- brevity
-
-## Metonymy
-
-Metonymy is a figure of speech that has to do with the substitution of the name of one thing for that of another.
-This substituted name may be an attribute of that other thing or be closely associated with it. In other words, it involves a "change of name", the substituted name suggesting the thing meant.
