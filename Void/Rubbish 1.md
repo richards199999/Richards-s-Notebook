@@ -91,3 +91,33 @@ I say dissent and not disagreement. And it is the distinction between dissent an
    - **Women's Suffrage Movement**: The 1920 ratification of the Nineteenth Amendment as a result of women's dissent and activism (source: Digital Collections for the Classroom【23†source】).
    - **Gay Rights Movement in the 1970s**: Post-Stonewall activism leading to significant changes in societal attitudes and laws related to the LGBT community (source: Khan Academy【24†source】).
 
+A rhetorical précis is similar to a summary, but it is less neutral and contains rhetorical analysis. A rhetorical précis is a brief representation of what a text both says and does.   
+Sentence One:  Name of author, genre, and title of work + a rhetorically strong verb + and a THAT clause containing the major assertion or thesis in the text. 
+Sentence Two:  An explanation of how the author develops and supports the thesis/main point. 
+Sentence Three:  A statement of the author’s purpose, followed by an “in order to” phrase. 
+Sentence Four: A description of the intended audience and/or the relationship the author establishes with the audience. 
+
+
+Sentence One  (Who/What?)
+_________________________ in the ________________ , ________________________________ , __________________________ that __________________________________________________________________________________________________________________________________________________________________________________________________________________________.
+Sentence Two  (How?)  
+_________________________ supports his/her ___________________ by _________________________________________________________________________________________________________________________________________________________________________________________ 
+Sentence Three  (Why?) 
+The author’s purpose is to __________________________________________________________ __________________________________ in order to / so that ______________________________ 
+Sentence Four  (To Whom?)
+___________________________________________________________________________________ ___________________________________________________________________________________. The author writes in ____________________tone for ____________________________________. 
+
+
+
+Sentence One (Who/What?)
+Abraham Lincoln, in his speech Gettysburg Address during the difficult times of the American Civil War, argues that America has to survive despite the war, and the youth should take their responsibility to keep the country.
+
+Sentence Two (How?)
+Lincoln support his idea by remembering the soldiers who lost their lives in the Civil War. He talks about the core values of America, which are liberty and equality. He suggests that the country can finally get through this war, and the youth should get ready for it.
+
+Sentence Three (Why?)
+The author’s purpose is to encourage and inspire the American people, in order to ensure that the sacrifices made are not in vain and the precious democracy value will endure.
+
+Sentence Four (To Whom?)
+Lincoln is speaking to the American public during hard time. He uses a hopeful, concincing tone. He's addressing people who are dealing with the sadness of war and are worried about what will happen to their country. He wants to give them hope for the future.
+
